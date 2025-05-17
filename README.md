@@ -44,7 +44,7 @@ Published **6 Python packages** to PyPI with a combined **76,000+ lifetime downl
 ---
 
 ### [`IdaiKuri`](https://pypi.org/project/IdaiKuri/)
-> A simple, generic **template engine** for document/text generation and parsing.
+> A **simple, generic template engine** for document/text generation and parsing.
 
 ![PyPI version](https://img.shields.io/pypi/v/idaikuri)
 ![Downloads](https://pepy.tech/badge/idaikuri)
@@ -55,7 +55,7 @@ Published **6 Python packages** to PyPI with a combined **76,000+ lifetime downl
 ---
 
 ### [`ThodarKuri`](https://pypi.org/project/ThodarKuri/)
-> A recursive, programmable **template engine** for structured document parsing & generation.
+> A **recursive, programmable template engine** for structured document parsing & generation.
 
 ![PyPI version](https://img.shields.io/pypi/v/thodarkuri)
 ![Downloads](https://pepy.tech/badge/thodarkuri)
