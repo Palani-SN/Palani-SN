@@ -4,75 +4,21 @@
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 Reach me @ mail id : psn396@gmail.com
 
-## 📦 PyPI Projects
+## 📦 PyPI Projects & Stats Overview
 
-Published **6 Python packages** to PyPI with a combined **76,000+ lifetime downloads**. These tools span CLI utilities, scientific analysis, template engines, and algorithm analysis frameworks.
+**76,000+ total lifetime downloads across 6 published packages**  
+All packages available via [PyPI](https://pypi.org/user/Palani-SN/) and GitHub.
 
----
+| Package | Description | Version | Monthly Downloads | Total Downloads | PyPI | GitHub |
+|--------|-------------|---------|-------------------|------------------|------|--------|
+| `logexan` | Logical Expression Analysis for automating **embedded systems testing**. | ![PyPI version](https://img.shields.io/pypi/v/logexan) | ![Monthly](https://pepy.tech/badge/logexan/month) | ![Total](https://pepy.tech/badge/logexan) | [PyPI](https://pypi.org/project/logexan/) | [GitHub](https://github.com/Palani-SN/LogExAn) |
+| `sceqan` | Analyze scientific expressions to identify **worst-case input scenarios**. | ![PyPI version](https://img.shields.io/pypi/v/sceqan) | ![Monthly](https://pepy.tech/badge/sceqan/month) | ![Total](https://pepy.tech/badge/sceqan) | [PyPI](https://pypi.org/project/sceqan/) | [GitHub](https://github.com/Palani-SN/ScEqAn) |
+| `py4cli` | A **scalable argument parser** for complex CLI tool development. | ![PyPI version](https://img.shields.io/pypi/v/py4cli) | ![Monthly](https://pepy.tech/badge/py4cli/month) | ![Total](https://pepy.tech/badge/py4cli) | [PyPI](https://pypi.org/project/py4cli/) | [GitHub](https://github.com/Palani-SN/py4cli) |
+| `idaikuri` | A **simple, generic template engine** for document/text generation and parsing. | ![PyPI version](https://img.shields.io/pypi/v/IdaiKuri) | ![Monthly](https://pepy.tech/badge/idaikuri/month) | ![Total](https://pepy.tech/badge/idaikuri) | [PyPI](https://pypi.org/project/IdaiKuri/) | [GitHub](https://github.com/Palani-SN/idaikuri) |
+| `thodarkuri` | A **recursive, programmable template engine** for structured document parsing & generation. | ![PyPI version](https://img.shields.io/pypi/v/ThodarKuri) | ![Monthly](https://pepy.tech/badge/thodarkuri/month) | ![Total](https://pepy.tech/badge/thodarkuri) | [PyPI](https://pypi.org/project/ThodarKuri/) | [GitHub](https://github.com/Palani-SN/ThodarKuri) |
+| `py4mbd` | A framework for implementing **Model-Based Design (MBD)** workflows in Python *(in progress)*. | ![PyPI version](https://img.shields.io/pypi/v/py4mbd) | ![Monthly](https://pepy.tech/badge/py4mbd/month) | ![Total](https://pepy.tech/badge/py4mbd) | [PyPI](https://pypi.org/project/py4mbd/) | [GitHub](https://github.com/Palani-SN/py4mbd) |
 
-### [`LogExAn`](https://pypi.org/project/LogExAn/)
-> Logical Expression Analysis for automating **embedded systems testing**.
-
-![PyPI version](https://img.shields.io/pypi/v/logexan)
-![Downloads](https://pepy.tech/badge/logexan)
-
-- 🔗 [GitHub](https://github.com/Palani-SN/LogExAn)
-- 📈 *( [`~100+ monthly downloads`](https://pypistats.org/packages/logexan) )*
-
----
-
-### [`ScEqAn`](https://pypi.org/project/ScEqAn/)
-> Analyze scientific expressions to identify **worst-case input scenarios** impacting outputs.
-
-![PyPI version](https://img.shields.io/pypi/v/sceqan)
-![Downloads](https://pepy.tech/badge/sceqan)
-
-- 🔗 [GitHub](https://github.com/Palani-SN/ScEqAn)
-- 📈 *( [`~80+ monthly downloads`](https://pypistats.org/packages/sceqan) )*
-
----
-
-### [`py4cli`](https://pypi.org/project/py4cli/)
-> A **scalable argument parser** for building complex CLI tools with ease.
-
-![PyPI version](https://img.shields.io/pypi/v/py4cli)
-![Downloads](https://pepy.tech/badge/py4cli)
-
-- 🔗 [GitHub](https://github.com/Palani-SN/py4cli)
-- 📈 *( [`~150+ monthly downloads`](https://pypistats.org/packages/py4cli) )* 
-
----
-
-### [`IdaiKuri`](https://pypi.org/project/IdaiKuri/)
-> A **simple, generic template engine** for document/text generation and parsing.
-
-![PyPI version](https://img.shields.io/pypi/v/idaikuri)
-![Downloads](https://pepy.tech/badge/idaikuri)
-
-- 🔗 [GitHub](https://github.com/Palani-SN/idaikuri)
-- 📈 *( [`~80+ monthly downloads`](https://pypistats.org/packages/idaikuri) )*
-
----
-
-### [`ThodarKuri`](https://pypi.org/project/ThodarKuri/)
-> A **recursive, programmable template engine** for structured document parsing & generation.
-
-![PyPI version](https://img.shields.io/pypi/v/thodarkuri)
-![Downloads](https://pepy.tech/badge/thodarkuri)
-
-- 🔗 [GitHub](https://github.com/Palani-SN/ThodarKuri)
-- 📈 *( [`~120+ monthly downloads`](https://pypistats.org/packages/thodarkuri) )*
-
----
-
-### [`py4mbd`](https://pypi.org/project/py4mbd/)
-> A framework for implementing **Model-Based Design (MBD)** workflows in Python *(in progress)*.
-
-![PyPI version](https://img.shields.io/pypi/v/py4mbd)
-![Downloads](https://pepy.tech/badge/py4mbd)
-
-- 🔗 [GitHub](https://github.com/Palani-SN/py4mbd)
-- 📈 *( [`~10+ monthly downloads`](https://pypistats.org/packages/py4mbd) )*
+> Powered by [pepy.tech](https://pepy.tech/) — badges auto-update daily.
 
 ---
 
