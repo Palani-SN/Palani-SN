@@ -6,61 +6,75 @@
 
 ## 📦 PyPI Projects
 
-Published 6 Python packages to PyPI with a combined 76,000+ lifetime downloads, tools cover CLI utilities, template engines for report generation & algorithm analysis frameworks.
+Published **6 Python packages** to PyPI with a combined **76,000+ lifetime downloads**. These tools span CLI utilities, scientific analysis, template engines, and algorithm analyis frameworks.
 
-### [`LogExan`](https://pypi.org/project/LogExAn/)
-> Logical Expression Analysis for automating Embedded Systems testing.
+---
+
+### [`LogExAn`](https://pypi.org/project/LogExAn/)
+> Logical Expression Analysis for automating **embedded systems testing**.
 
 ![PyPI version](https://img.shields.io/pypi/v/logexan)
 ![Downloads](https://pepy.tech/badge/logexan)
 
-- GitHub: [LogExAn](https://github.com/Palani-SN/LogExAn)
-- Monthly downloads: 100+
+- 🔗 [GitHub](https://github.com/Palani-SN/LogExAn)
+- 📈 ~100 monthly downloads
+
+---
 
 ### [`ScEqAn`](https://pypi.org/project/ScEqAn/)
-> Scientific Equations/Expressions Analysis to understand worst case scenarios for finding combinations of inputs contributing to extreme impacts on outputs.
+> Analyze scientific expressions to identify **worst-case input scenarios** impacting outputs.
 
 ![PyPI version](https://img.shields.io/pypi/v/sceqan)
 ![Downloads](https://pepy.tech/badge/sceqan)
 
-- GitHub: [ScEqAn](https://github.com/Palani-SN/ScEqAn)
-- Monthly downloads: 80+
+- 🔗 [GitHub](https://github.com/Palani-SN/ScEqAn)
+- 📈 ~80 monthly downloads
+
+---
 
 ### [`py4cli`](https://pypi.org/project/py4cli/)
-> python for command line interface development ( scalable argument parser ). Argument Parser for developing Command Line Tools, that is scalable as per need.
+> A **scalable argument parser** for building complex CLI tools with ease.
 
 ![PyPI version](https://img.shields.io/pypi/v/py4cli)
 ![Downloads](https://pepy.tech/badge/py4cli)
 
-- GitHub: [py4cli](https://github.com/Palani-SN/py4cli)
-- Monthly downloads: ~150
+- 🔗 [GitHub](https://github.com/Palani-SN/py4cli)
+- 📈 ~150 monthly downloads
+
+---
 
 ### [`IdaiKuri`](https://pypi.org/project/IdaiKuri/)
-> Generic Simple Template Engine for Filling & Parsing.
+> A simple, generic **template engine** for document/text generation and parsing.
 
 ![PyPI version](https://img.shields.io/pypi/v/idaikuri)
 ![Downloads](https://pepy.tech/badge/idaikuri)
 
-- GitHub: [IdaiKuri](https://github.com/Palani-SN/idaikuri)
-- Monthly downloads: 80+
+- 🔗 [GitHub](https://github.com/Palani-SN/idaikuri)
+- 📈 ~80 monthly downloads
+
+---
 
 ### [`ThodarKuri`](https://pypi.org/project/ThodarKuri/)
-> Generic Recursive Template Engine for Filling & Parsing.
+> A recursive, programmable **template engine** for structured document parsing & generation.
 
 ![PyPI version](https://img.shields.io/pypi/v/thodarkuri)
 ![Downloads](https://pepy.tech/badge/thodarkuri)
 
-- GitHub: [ThodarKuri](https://github.com/Palani-SN/ThodarKuri)
-- Monthly downloads: ~120
+- 🔗 [GitHub](https://github.com/Palani-SN/ThodarKuri)
+- 📈 ~120 monthly downloads
+
+---
 
 ### [`py4mbd`](https://pypi.org/project/py4mbd/)
-> Framework for implementing Model Based Design in Python. (in progress)
+> A framework for implementing **Model-Based Design (MBD)** workflows in Python *(in progress)*.
 
 ![PyPI version](https://img.shields.io/pypi/v/py4mbd)
 ![Downloads](https://pepy.tech/badge/py4mbd)
 
-- GitHub: [py4mbd](https://github.com/Palani-SN/py4mbd)
-- Monthly downloads: 10+
+- 🔗 [GitHub](https://github.com/Palani-SN/py4mbd)
+- 📈 ~10 monthly downloads
+
+---
 
 <!---
 Palani-SN/Palani-SN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
