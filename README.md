@@ -6,7 +6,7 @@
 
 ## 📦 PyPI Projects
 
-Published **6 Python packages** to PyPI with a combined **76,000+ lifetime downloads**. These tools span CLI utilities, scientific analysis, template engines, and algorithm analyis frameworks.
+Published **6 Python packages** to PyPI with a combined **76,000+ lifetime downloads**. These tools span CLI utilities, scientific analysis, template engines, and algorithm analysis frameworks.
 
 ---
 
