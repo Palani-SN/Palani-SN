@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 Reach me @ mail id : psn396@gmail.com
 
-## 📦 PyPI Projects & Stats Overview
+## 📦 Open Source PyPI Projects & Stats Overview
 
 **76,000+ total lifetime downloads across 6 published packages**  
 All packages available via [PyPI](https://pypi.org/user/Palani-SN/) and GitHub.
