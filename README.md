@@ -6,7 +6,7 @@
 
 ## 📦 PyPI Projects
 
-Published 6+ Python packages to PyPI with a combined 76,000+ lifetime downloads, tools cover CLI utilities, template engines for report generation & algorithm analysis frameworks.
+Published 6 Python packages to PyPI with a combined 76,000+ lifetime downloads, tools cover CLI utilities, template engines for report generation & algorithm analysis frameworks.
 
 ### [`LogExan`](https://pypi.org/project/LogExAn/)
 > Logical Expression Analysis for automating Embedded Systems testing.
