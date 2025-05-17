@@ -17,7 +17,7 @@ Published **6 Python packages** to PyPI with a combined **76,000+ lifetime downl
 ![Downloads](https://pepy.tech/badge/logexan)
 
 - 🔗 [GitHub](https://github.com/Palani-SN/LogExAn)
-- 📈 ~100 monthly downloads
+- 📈 *( [`~100+ monthly downloads`](https://pypistats.org/packages/logexan) )*
 
 ---
 
@@ -28,7 +28,7 @@ Published **6 Python packages** to PyPI with a combined **76,000+ lifetime downl
 ![Downloads](https://pepy.tech/badge/sceqan)
 
 - 🔗 [GitHub](https://github.com/Palani-SN/ScEqAn)
-- 📈 ~80 monthly downloads
+- 📈 *( [`~80+ monthly downloads`](https://pypistats.org/packages/sceqan) )*
 
 ---
 
@@ -39,7 +39,7 @@ Published **6 Python packages** to PyPI with a combined **76,000+ lifetime downl
 ![Downloads](https://pepy.tech/badge/py4cli)
 
 - 🔗 [GitHub](https://github.com/Palani-SN/py4cli)
-- 📈 ~150 monthly downloads
+- 📈 *( [`~150+ monthly downloads`](https://pypistats.org/packages/py4cli) )* 
 
 ---
 
@@ -50,7 +50,7 @@ Published **6 Python packages** to PyPI with a combined **76,000+ lifetime downl
 ![Downloads](https://pepy.tech/badge/idaikuri)
 
 - 🔗 [GitHub](https://github.com/Palani-SN/idaikuri)
-- 📈 ~80 monthly downloads
+- 📈 *( [`~80+ monthly downloads`](https://pypistats.org/packages/idaikuri) )*
 
 ---
 
@@ -61,7 +61,7 @@ Published **6 Python packages** to PyPI with a combined **76,000+ lifetime downl
 ![Downloads](https://pepy.tech/badge/thodarkuri)
 
 - 🔗 [GitHub](https://github.com/Palani-SN/ThodarKuri)
-- 📈 ~120 monthly downloads
+- 📈 *( [`~120+ monthly downloads`](https://pypistats.org/packages/thodarkuri) )*
 
 ---
 
@@ -72,7 +72,7 @@ Published **6 Python packages** to PyPI with a combined **76,000+ lifetime downl
 ![Downloads](https://pepy.tech/badge/py4mbd)
 
 - 🔗 [GitHub](https://github.com/Palani-SN/py4mbd)
-- 📈 ~10 monthly downloads
+- 📈 *( [`~10+ monthly downloads`](https://pypistats.org/packages/py4mbd) )*
 
 ---
 
