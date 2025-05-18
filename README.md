@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Palani-SN
-- 👀 I’m interested in Python, C, C++, embedded systems (also any practical problem solving)
-- 🌱 I’m currently learning Web Technologies (node, react) & Devops & AWS
-- 💞️ I’m looking to collaborate on anything interesting
+- 👋 Hi, I’m Sathiyanarayanan Palani (@Palani-SN)
+- 👀 I am good at providing solutions for the problems via possibilites in the tech realms as a Solutions Architect.
+- 🌱 specialized in 0-1 developmental phase
+- 💞️ Interested in (Entrepreneurship / Problem Solving / POC Development)
 - 📫 Reach me @ mail id : psn396@gmail.com
 
 ## 📦 Open Source PyPI Projects & Stats Overview
